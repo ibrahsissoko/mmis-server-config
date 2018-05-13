@@ -1,0 +1,34 @@
+{
+  "inventory": {
+    "api": 4001,
+    "web": 4002
+  },
+  "purchasing": {
+    "api": 4003,
+    "web": 4004
+  },
+  "material": {
+    "api": 4005,
+    "web": 4006
+  },
+  "contract": {
+    "api": 4007,
+    "web": 4008
+  },
+  "planning": {
+    "api": 4009,
+    "web": 4010
+  },
+  "document": {
+    "api": 4011,
+    "web": 4012
+  },
+  "management": {
+    "api": 4013,
+    "web": 4014
+  },
+  "portal": {
+    "api": 4015,
+    "web": 4016
+  }
+}
